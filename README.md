@@ -1,12 +1,7 @@
 <h1 align="center">Pathfinding Visualizer ThreeJS</h1>
 <h2 align="center">
 
-[![Mentioned in Awesome Vue.js](https://awesome.re/mentioned-badge.svg)](https://github.com/vuejs/awesome-vue)
-
 </h2>
-
-<h3 align="center">🥇 <a href="https://www.algoexpert.io/swe-project-contests/2020-summer">Software Engineering Project Contest </a> winner on AlgoExpert 🥇</h3>
-<br>
 
 <div align="center">
 <img src="https://img.shields.io/badge/made%20by-dhruvmisra-blue.svg" >
