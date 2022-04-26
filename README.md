@@ -4,7 +4,6 @@
 </h2>
 
 <div align="center">
-<img src="https://img.shields.io/badge/made%20by-dhruvmisra-blue.svg" >
 
 <img src="https://img.shields.io/badge/vue-2.6.11-41B883.svg">
 
